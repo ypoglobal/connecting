@@ -1,0 +1,21 @@
+.tb--background {
+    background-color: #041e42 !important;
+}
+.tb--button,
+.button-primary {
+    background: #041e42 !important;
+    border-color: #041e42 !important;
+    color: #ffffff !important;
+}
+.tb--button:hover,
+.button-primary:hover {
+            background-image: linear-gradient(hsla(0, 0%, 100%, 0.04) 0 0) !important;
+    }
+.tb--link {
+    color: #041e42 !important;
+}
+.link-button-disabled,
+.link-button-disabled:hover {
+    background-image: linear-gradient(hsla(0, 0%, 100%, 0.5) 0 0) !important;
+        border-color: #ffffff !important;
+}
